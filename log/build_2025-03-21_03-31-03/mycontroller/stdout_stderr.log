@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating mycontroller.egg-info
+writing mycontroller.egg-info/PKG-INFO
+writing dependency_links to mycontroller.egg-info/dependency_links.txt
+writing entry points to mycontroller.egg-info/entry_points.txt
+writing requirements to mycontroller.egg-info/requires.txt
+writing top-level names to mycontroller.egg-info/top_level.txt
+writing manifest file 'mycontroller.egg-info/SOURCES.txt'
+reading manifest file 'mycontroller.egg-info/SOURCES.txt'
+writing manifest file 'mycontroller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/python3.10/site-packages/mycontroller.egg-link (link to .)
+
+Installed /home/syfe/Desktop/ros2_hehe/build/mycontroller
+running symlink_data
+creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/ament_index
+creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/ament_index/resource_index
+creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/ament_index/resource_index/packages
+symbolically linking /home/syfe/Desktop/ros2_hehe/build/mycontroller/resource/mycontroller -> /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/ament_index/resource_index/packages
+symbolically linking /home/syfe/Desktop/ros2_hehe/build/mycontroller/package.xml -> /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/mycontroller

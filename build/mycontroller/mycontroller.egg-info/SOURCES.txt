@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+mycontroller/__init__.py
+mycontroller/publisher_node.py
+mycontroller/subscriber_node.py
+mycontroller.egg-info/PKG-INFO
+mycontroller.egg-info/SOURCES.txt
+mycontroller.egg-info/dependency_links.txt
+mycontroller.egg-info/entry_points.txt
+mycontroller.egg-info/requires.txt
+mycontroller.egg-info/top_level.txt
+mycontroller.egg-info/zip-safe
+resource/mycontroller

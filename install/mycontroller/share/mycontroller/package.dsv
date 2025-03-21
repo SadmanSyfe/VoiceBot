@@ -1,0 +1,9 @@
+source;share/mycontroller/hook/pythonpath.ps1
+source;share/mycontroller/hook/pythonpath.dsv
+source;share/mycontroller/hook/pythonpath.sh
+source;share/mycontroller/hook/ament_prefix_path.ps1
+source;share/mycontroller/hook/ament_prefix_path.dsv
+source;share/mycontroller/hook/ament_prefix_path.sh
+source;../../build/mycontroller/share/mycontroller/hook/pythonpath_develop.ps1
+source;../../build/mycontroller/share/mycontroller/hook/pythonpath_develop.dsv
+source;../../build/mycontroller/share/mycontroller/hook/pythonpath_develop.sh

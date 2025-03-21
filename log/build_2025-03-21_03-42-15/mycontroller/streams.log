@@ -1,0 +1,18 @@
+[0.383s] Invoking command in '/home/syfe/Desktop/ros2_hehe/build/mycontroller': PYTHONPATH=/home/syfe/Desktop/ros2_hehe/build/mycontroller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/syfe/Desktop/ros2_hehe/build/mycontroller/build --no-deps symlink_data
+[0.550s] running develop
+[0.641s] running egg_info
+[0.642s] writing mycontroller.egg-info/PKG-INFO
+[0.642s] writing dependency_links to mycontroller.egg-info/dependency_links.txt
+[0.642s] writing entry points to mycontroller.egg-info/entry_points.txt
+[0.642s] writing requirements to mycontroller.egg-info/requires.txt
+[0.642s] writing top-level names to mycontroller.egg-info/top_level.txt
+[0.644s] reading manifest file 'mycontroller.egg-info/SOURCES.txt'
+[0.679s] writing manifest file 'mycontroller.egg-info/SOURCES.txt'
+[0.680s] running build_ext
+[0.680s] Creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/python3.10/site-packages/mycontroller.egg-link (link to .)
+[0.681s] Installing publisher_node script to /home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/mycontroller
+[0.681s] Installing subscriber_node script to /home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/mycontroller
+[0.681s] 
+[0.681s] Installed /home/syfe/Desktop/ros2_hehe/build/mycontroller
+[0.682s] running symlink_data
+[0.699s] Invoked command in '/home/syfe/Desktop/ros2_hehe/build/mycontroller' returned '0': PYTHONPATH=/home/syfe/Desktop/ros2_hehe/build/mycontroller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/syfe/Desktop/ros2_hehe/build/mycontroller/build --no-deps symlink_data

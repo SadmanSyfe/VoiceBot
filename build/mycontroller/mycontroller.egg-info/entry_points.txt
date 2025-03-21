@@ -1,0 +1,4 @@
+[console_scripts]
+publisher_node = mycontroller.publisher_node:main
+subscriber_node = mycontroller.subscriber_node:main
+

@@ -1,0 +1,23 @@
+[0.498s] Invoking command in '/home/syfe/Desktop/ros2_hehe/build/mycontroller': PYTHONPATH=/home/syfe/Desktop/ros2_hehe/build/mycontroller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/syfe/Desktop/ros2_hehe/build/mycontroller/build --no-deps symlink_data
+[0.662s] running develop
+[0.757s] running egg_info
+[0.757s] creating mycontroller.egg-info
+[0.757s] writing mycontroller.egg-info/PKG-INFO
+[0.757s] writing dependency_links to mycontroller.egg-info/dependency_links.txt
+[0.757s] writing entry points to mycontroller.egg-info/entry_points.txt
+[0.757s] writing requirements to mycontroller.egg-info/requires.txt
+[0.757s] writing top-level names to mycontroller.egg-info/top_level.txt
+[0.757s] writing manifest file 'mycontroller.egg-info/SOURCES.txt'
+[0.760s] reading manifest file 'mycontroller.egg-info/SOURCES.txt'
+[0.760s] writing manifest file 'mycontroller.egg-info/SOURCES.txt'
+[0.760s] running build_ext
+[0.760s] Creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/python3.10/site-packages/mycontroller.egg-link (link to .)
+[0.760s] 
+[0.760s] Installed /home/syfe/Desktop/ros2_hehe/build/mycontroller
+[0.760s] running symlink_data
+[0.760s] creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/ament_index
+[0.760s] creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/ament_index/resource_index
+[0.760s] creating /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/ament_index/resource_index/packages
+[0.760s] symbolically linking /home/syfe/Desktop/ros2_hehe/build/mycontroller/resource/mycontroller -> /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/ament_index/resource_index/packages
+[0.760s] symbolically linking /home/syfe/Desktop/ros2_hehe/build/mycontroller/package.xml -> /home/syfe/Desktop/ros2_hehe/install/mycontroller/share/mycontroller
+[0.779s] Invoked command in '/home/syfe/Desktop/ros2_hehe/build/mycontroller' returned '0': PYTHONPATH=/home/syfe/Desktop/ros2_hehe/build/mycontroller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/syfe/Desktop/ros2_hehe/install/mycontroller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/syfe/Desktop/ros2_hehe/build/mycontroller/build --no-deps symlink_data
