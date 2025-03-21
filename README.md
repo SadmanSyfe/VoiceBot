@@ -1,5 +1,13 @@
 # Voice Controlled Bot
 
+Depenedencies:
+* rclpy
+* std_msgs
+* geometry_msgs
+* SpeechRecognition
+* re
+* pyttsx3
+
 ## Build Docker image
 There is a docker file in the root of the project. Change directory to the root of the project and open Command Prompt there. Type:
 
